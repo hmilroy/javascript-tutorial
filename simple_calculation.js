@@ -2,4 +2,4 @@ function sum(m, n){
     return m + n;
 }
 
-console.log(sum(2,3));
+console.log(sum(478514,8892175));
